@@ -60,7 +60,7 @@ Only a modern mobile browser is needed.
 
 - Requires a browser that supports the **DeviceOrientation API** (permission prompt and user gesture may be required on iOS/Android).
 - Both host and client must be on the **same Wi-Fi network**.
-- Designed and tested with **Bun**; other Node.js runtimes should work with minor adjustments.
+- Designed and tested with **Bun**; other runtimes like Node.JJ or Deno should work with no or just  minor adjustments.
 
 
 
